@@ -271,4 +271,4 @@ Hedera is a founding member of the Distributed Ledger Foundation and will work w
 
 ## Conclusion 
 Hedera directly resolves the five fundamental obstacles to mainstream market adoption of public ledger technology: Performance, Security, Stability, Governance, and Regulatory Compliance.
-The hashgraph data structure and consensus algorithm provides a best-in-class, unmatched combination of performance and security. The Hedera platform and governance council will provide transparency, open innovation with platform stability, tools to enable opt-in KYC and AML, and global, cross-industry expertise to provide governance and decision making for a globally distributed network and cryptocurrency. 
+The hashgraph data structure and consensus algorithm provides a best-in-class, unmatched combination of performance and security. The Hedera platform and governance council will provide transparency, open innovation with platform stability, tools to enable opt-in KYC and AML, and global, cross-industry expertise to provide governance and decision making for a globally distributed network and cryptocurrency.
